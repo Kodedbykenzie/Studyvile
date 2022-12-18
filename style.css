@@ -805,7 +805,9 @@ h1 {
         font-weight: 300;
         cursor: pointer;
         text-decoration: none;
-        padding-top: 20px;
+      }
+      .wrapper{
+        padding: auto;
       }
       
   }
