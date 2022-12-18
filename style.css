@@ -655,6 +655,7 @@ h1 {
     transition: width 333ms ease-in-out;
     text-align: center;
     padding: 18px 0;
+    color: #fff;
   }
   
   form .field input[type="text"],
