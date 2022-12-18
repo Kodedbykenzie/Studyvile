@@ -798,6 +798,13 @@ h1 {
       width: 100%;
       text-align: center;
     }
+    form * {
+        font-size: 5px;
+        font-weight: 300;
+        text-transform: uppercase;
+        cursor: pointer;
+        text-decoration: none;
+      }
   }
    
    
